@@ -2,7 +2,7 @@
 This is the team project for UR4A
 
 Link to app:
-https://hongxia.shinyapps.io/project/ 
+https://hongxia.shinyapps.io/smart_loan/
 
 
 The following documents are included:
